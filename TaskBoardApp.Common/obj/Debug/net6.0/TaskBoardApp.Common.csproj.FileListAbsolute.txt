@@ -1,0 +1,15 @@
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoardApp.Common.deps.json
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoardApp.Common.dll
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoardApp.Common.pdb
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.AssemblyInfoInputs.cache
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.AssemblyInfo.cs
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.csproj.CoreCompileInputs.cache
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.sourcelink.json
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.dll
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\refint\TaskBoardApp.Common.dll
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.pdb
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\ref\TaskBoardApp.Common.dll
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\bin\Debug\net6.0\TaskBoardApp.Common.runtimeconfig.json
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.csproj.AssemblyReference.cache
+D:\Software University\repos\CSharpWebFund-IdentityWorkshop-January2024\TaskBoardApp.Common\obj\Debug\net6.0\TaskBoardApp.Common.genruntimeconfig.cache
