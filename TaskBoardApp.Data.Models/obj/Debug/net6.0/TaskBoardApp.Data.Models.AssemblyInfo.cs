@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskBoardApp.Data.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e66f617caddfcca63a6fe928d8e87275e6403c1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31e596419140e2a12e9ac4857d402d6a79ca98f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskBoardApp.Data.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskBoardApp.Data.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
