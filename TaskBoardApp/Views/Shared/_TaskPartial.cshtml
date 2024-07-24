@@ -1,0 +1,22 @@
+﻿@model IEnumerable<TaskViewModel>
+
+@foreach (var task in Model)
+{
+    <div class="card" style="width: 20rem;">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item"><span class="fw-bold">Заглавие: </span> @task.Title</li>
+            <li class="list-group-item"><span class="fw-bold">Описание: </span> : @task.Description</li>
+            <li class="list-group-item">
+                <span class="fw-bold">Действие: </span>
+                <a asp-controller="Task" asp-action="Details" asp-route-id="@task.Id" class="btn btn-success mb-2">Преглед</a>
+                <span></span>
+                @if (User.Identity?.Name == task.Owner)
+                {
+                    <a asp-controller="Task" asp-action="Edit" asp-route-id="@task.Id" class="btn btn-primary mb-2">Редактиране</a>
+                    <span></span>
+                    <a asp-controller="Task" asp-action="Delete" asp-route-id="@task.Id" class="btn btn-danger mb-2">Изтриване</a>
+                }
+            </li>
+        </ul>
+    </div>
+}
